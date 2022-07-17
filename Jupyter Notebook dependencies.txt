@@ -1,0 +1,8 @@
+*miniconda 3
+
+numpy
+pandas
+matplotlib
+seabon
+pickle
+sklearn

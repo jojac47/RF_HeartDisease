@@ -2,7 +2,7 @@
 
 ## jupyter notebook instructions
 
-* To Start download the the whole project folder from this repository.
+* To Start, download the the whole project folder from this repository.
 
 * 2nd download mini conda from https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 

@@ -6,9 +6,9 @@
 
 * 2nd download mini conda from https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
-* 3rd activate the conda environment by typing : conda activate C:/path to this folder/RF_HeartDisease/env in the mini conda terminal
+* 3rd activate the conda environment by typing : conda activate C:/path to this folder/RF_HeartDisease-main/env in the mini conda terminal
 
-* 4th change to the working directory by entering the command: cd C:/path to this folder/RF_HeartDisease
+* 4th change to the working directory by entering the command: cd C:/path to this folder/RF_HeartDisease-main
 
 * 5th Once the environment is active type the following in the mini conda terminal: jupyter noteboob
 

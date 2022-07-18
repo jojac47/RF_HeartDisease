@@ -1,6 +1,6 @@
 "# RF_HeartDisease" 
 
-## jupyter notebook instructions
+## Jupyter Notebook Instructions
 
 * To Start, download the the whole project folder from this repository.
 
